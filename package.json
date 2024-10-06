@@ -1,5 +1,6 @@
 {
-  "name": "employee",
+  "homepage": "https://basherbd.github.io/skks-rb",
+  "name": "skks-rb",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
